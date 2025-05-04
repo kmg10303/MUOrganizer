@@ -1,0 +1,3 @@
+[console_scripts]
+key_finder = pymusickit.key_finder:main
+music_theory = pymusickit.music_theory:main
