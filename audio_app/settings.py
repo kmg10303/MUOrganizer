@@ -11,9 +11,11 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 """
 
 from pathlib import Path
-
+import os
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) # For deployment
+
 
 
 # Quick-start development settings - unsuitable for production
@@ -26,6 +28,18 @@ SECRET_KEY = "django-insecure-f9a6j$6s-d6%z=^bm0p0)(77ob2=kp^j&a-+ai0$j7kt^@a=h+
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
+
+# Static files (CSS, JavaScript, Images)
+# https://docs.djangoproject.com/en/4.2/howto/static-files/
+
+STATIC_URL = "/static/"
+
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, 'staticfiles/static')
+]
+
 
 
 # Application definition
@@ -57,7 +71,7 @@ ROOT_URLCONF = "audio_app.urls"
 TEMPLATES = [
     {
         "BACKEND": "django.template.backends.django.DjangoTemplates",
-        "DIRS": [],
+        "DIRS": [os.path.join(BASE_DIR, 'audio_app/staticfiles'),],
         "APP_DIRS": True,
         "OPTIONS": {
             "context_processors": [
@@ -69,6 +83,7 @@ TEMPLATES = [
         },
     },
 ]
+TEMPLATES[0]['DIRS'] = [os.path.join(BASE_DIR, 'audio_app/templates')]
 
 WSGI_APPLICATION = "audio_app.wsgi.application"
 
@@ -79,7 +94,6 @@ WSGI_APPLICATION = "audio_app.wsgi.application"
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.sqlite3",
-        "NAME": BASE_DIR / "db.sqlite3",
     }
 }
 
@@ -115,10 +129,7 @@ USE_I18N = True
 USE_TZ = True
 
 
-# Static files (CSS, JavaScript, Images)
-# https://docs.djangoproject.com/en/4.2/howto/static-files/
 
-STATIC_URL = "static/"
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field

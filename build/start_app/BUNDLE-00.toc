@@ -1,0 +1,687 @@
+([('start_app',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/build/start_app/start_app',
+   'EXECUTABLE'),
+  ('lib-dynload/_struct.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_struct.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/zlib.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/zlib.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('libpython3.9.dylib',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/libpython3.9.dylib',
+   'BINARY'),
+  ('lib-dynload/unicodedata.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/unicodedata.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_datetime.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_datetime.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/math.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/math.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/array.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/array.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/select.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/select.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_socket.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_socket.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_statistics.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_statistics.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_contextvars.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_contextvars.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_decimal.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_decimal.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_pickle.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_pickle.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_hashlib.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_hashlib.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_sha3.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_sha3.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_blake2.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_blake2.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_sha256.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_sha256.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_md5.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_md5.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_sha1.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_sha1.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_sha512.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_sha512.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_random.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_random.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_bisect.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_bisect.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_csv.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_csv.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/binascii.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/binascii.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/resource.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/resource.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/grp.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/grp.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_lzma.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_lzma.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_bz2.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_bz2.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_heapq.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_heapq.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_multibytecodec.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_multibytecodec.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_jp.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_codecs_jp.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_kr.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_codecs_kr.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_iso2022.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_codecs_iso2022.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_cn.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_codecs_cn.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_tw.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_codecs_tw.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_hk.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_codecs_hk.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_posixsubprocess.cpython-39-darwin.so',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/python3.9/lib-dynload/_posixsubprocess.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('libcrypto.1.1.dylib',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/libcrypto.1.1.dylib',
+   'BINARY'),
+  ('libz.1.dylib',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/libz.1.dylib',
+   'BINARY'),
+  ('liblzma.5.dylib',
+   '/Users/kavimongia-gasper/opt/anaconda3/lib/liblzma.5.dylib',
+   'BINARY'),
+  ('db.sqlite3',
+   '/Users/kavimongia-gasper/Documents/RRP Project/audio_app/db.sqlite3',
+   'DATA'),
+  ('staticfiles/admin/css/autocomplete.css',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/css/autocomplete.css',
+   'DATA'),
+  ('staticfiles/admin/css/base.css',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/css/base.css',
+   'DATA'),
+  ('staticfiles/admin/css/changelists.css',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/css/changelists.css',
+   'DATA'),
+  ('staticfiles/admin/css/dark_mode.css',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/css/dark_mode.css',
+   'DATA'),
+  ('staticfiles/admin/css/dashboard.css',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/css/dashboard.css',
+   'DATA'),
+  ('staticfiles/admin/css/forms.css',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/css/forms.css',
+   'DATA'),
+  ('staticfiles/admin/css/login.css',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/css/login.css',
+   'DATA'),
+  ('staticfiles/admin/css/nav_sidebar.css',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/css/nav_sidebar.css',
+   'DATA'),
+  ('staticfiles/admin/css/responsive.css',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/css/responsive.css',
+   'DATA'),
+  ('staticfiles/admin/css/responsive_rtl.css',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/css/responsive_rtl.css',
+   'DATA'),
+  ('staticfiles/admin/css/rtl.css',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/css/rtl.css',
+   'DATA'),
+  ('staticfiles/admin/css/vendor/select2/LICENSE-SELECT2.md',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/css/vendor/select2/LICENSE-SELECT2.md',
+   'DATA'),
+  ('staticfiles/admin/css/vendor/select2/select2.css',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/css/vendor/select2/select2.css',
+   'DATA'),
+  ('staticfiles/admin/css/vendor/select2/select2.min.css',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/css/vendor/select2/select2.min.css',
+   'DATA'),
+  ('staticfiles/admin/css/widgets.css',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/css/widgets.css',
+   'DATA'),
+  ('staticfiles/admin/img/LICENSE',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/img/LICENSE',
+   'DATA'),
+  ('staticfiles/admin/img/README.txt',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/img/README.txt',
+   'DATA'),
+  ('staticfiles/admin/img/calendar-icons.svg',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/img/calendar-icons.svg',
+   'DATA'),
+  ('staticfiles/admin/img/gis/move_vertex_off.svg',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/img/gis/move_vertex_off.svg',
+   'DATA'),
+  ('staticfiles/admin/img/gis/move_vertex_on.svg',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/img/gis/move_vertex_on.svg',
+   'DATA'),
+  ('staticfiles/admin/img/icon-addlink.svg',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/img/icon-addlink.svg',
+   'DATA'),
+  ('staticfiles/admin/img/icon-alert.svg',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/img/icon-alert.svg',
+   'DATA'),
+  ('staticfiles/admin/img/icon-calendar.svg',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/img/icon-calendar.svg',
+   'DATA'),
+  ('staticfiles/admin/img/icon-changelink.svg',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/img/icon-changelink.svg',
+   'DATA'),
+  ('staticfiles/admin/img/icon-clock.svg',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/img/icon-clock.svg',
+   'DATA'),
+  ('staticfiles/admin/img/icon-deletelink.svg',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/img/icon-deletelink.svg',
+   'DATA'),
+  ('staticfiles/admin/img/icon-no.svg',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/img/icon-no.svg',
+   'DATA'),
+  ('staticfiles/admin/img/icon-unknown-alt.svg',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/img/icon-unknown-alt.svg',
+   'DATA'),
+  ('staticfiles/admin/img/icon-unknown.svg',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/img/icon-unknown.svg',
+   'DATA'),
+  ('staticfiles/admin/img/icon-viewlink.svg',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/img/icon-viewlink.svg',
+   'DATA'),
+  ('staticfiles/admin/img/icon-yes.svg',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/img/icon-yes.svg',
+   'DATA'),
+  ('staticfiles/admin/img/inline-delete.svg',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/img/inline-delete.svg',
+   'DATA'),
+  ('staticfiles/admin/img/search.svg',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/img/search.svg',
+   'DATA'),
+  ('staticfiles/admin/img/selector-icons.svg',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/img/selector-icons.svg',
+   'DATA'),
+  ('staticfiles/admin/img/sorting-icons.svg',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/img/sorting-icons.svg',
+   'DATA'),
+  ('staticfiles/admin/img/tooltag-add.svg',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/img/tooltag-add.svg',
+   'DATA'),
+  ('staticfiles/admin/img/tooltag-arrowright.svg',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/img/tooltag-arrowright.svg',
+   'DATA'),
+  ('staticfiles/admin/js/SelectBox.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/SelectBox.js',
+   'DATA'),
+  ('staticfiles/admin/js/SelectFilter2.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/SelectFilter2.js',
+   'DATA'),
+  ('staticfiles/admin/js/actions.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/actions.js',
+   'DATA'),
+  ('staticfiles/admin/js/admin/DateTimeShortcuts.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/admin/DateTimeShortcuts.js',
+   'DATA'),
+  ('staticfiles/admin/js/admin/RelatedObjectLookups.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/admin/RelatedObjectLookups.js',
+   'DATA'),
+  ('staticfiles/admin/js/autocomplete.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/autocomplete.js',
+   'DATA'),
+  ('staticfiles/admin/js/calendar.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/calendar.js',
+   'DATA'),
+  ('staticfiles/admin/js/cancel.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/cancel.js',
+   'DATA'),
+  ('staticfiles/admin/js/change_form.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/change_form.js',
+   'DATA'),
+  ('staticfiles/admin/js/collapse.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/collapse.js',
+   'DATA'),
+  ('staticfiles/admin/js/core.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/core.js',
+   'DATA'),
+  ('staticfiles/admin/js/filters.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/filters.js',
+   'DATA'),
+  ('staticfiles/admin/js/inlines.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/inlines.js',
+   'DATA'),
+  ('staticfiles/admin/js/jquery.init.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/jquery.init.js',
+   'DATA'),
+  ('staticfiles/admin/js/nav_sidebar.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/nav_sidebar.js',
+   'DATA'),
+  ('staticfiles/admin/js/popup_response.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/popup_response.js',
+   'DATA'),
+  ('staticfiles/admin/js/prepopulate.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/prepopulate.js',
+   'DATA'),
+  ('staticfiles/admin/js/prepopulate_init.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/prepopulate_init.js',
+   'DATA'),
+  ('staticfiles/admin/js/theme.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/theme.js',
+   'DATA'),
+  ('staticfiles/admin/js/urlify.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/urlify.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/jquery/LICENSE.txt',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/jquery/LICENSE.txt',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/jquery/jquery.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/jquery/jquery.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/jquery/jquery.min.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/jquery/jquery.min.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/LICENSE.md',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/LICENSE.md',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/af.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/af.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/ar.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/ar.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/az.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/az.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/bg.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/bg.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/bn.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/bn.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/bs.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/bs.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/ca.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/ca.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/cs.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/cs.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/da.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/da.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/de.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/de.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/dsb.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/dsb.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/el.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/el.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/en.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/en.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/es.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/es.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/et.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/et.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/eu.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/eu.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/fa.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/fa.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/fi.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/fi.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/fr.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/fr.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/gl.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/gl.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/he.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/he.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/hi.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/hi.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/hr.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/hr.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/hsb.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/hsb.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/hu.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/hu.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/hy.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/hy.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/id.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/id.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/is.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/is.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/it.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/it.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/ja.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/ja.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/ka.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/ka.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/km.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/km.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/ko.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/ko.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/lt.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/lt.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/lv.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/lv.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/mk.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/mk.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/ms.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/ms.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/nb.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/nb.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/ne.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/ne.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/nl.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/nl.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/pl.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/pl.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/ps.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/ps.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/pt-BR.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/pt-BR.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/pt.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/pt.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/ro.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/ro.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/ru.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/ru.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/sk.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/sk.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/sl.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/sl.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/sq.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/sq.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/sr-Cyrl.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/sr-Cyrl.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/sr.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/sr.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/sv.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/sv.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/th.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/th.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/tk.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/tk.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/tr.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/tr.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/uk.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/uk.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/vi.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/vi.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/zh-CN.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/zh-CN.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/i18n/zh-TW.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/i18n/zh-TW.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/select2.full.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/select2.full.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/select2/select2.full.min.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/select2/select2.full.min.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/xregexp/LICENSE.txt',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/xregexp/LICENSE.txt',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/xregexp/xregexp.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/xregexp/xregexp.js',
+   'DATA'),
+  ('staticfiles/admin/js/vendor/xregexp/xregexp.min.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/admin/js/vendor/xregexp/xregexp.min.js',
+   'DATA'),
+  ('staticfiles/asset-manifest.json',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/asset-manifest.json',
+   'DATA'),
+  ('staticfiles/favicon.ico',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/favicon.ico',
+   'DATA'),
+  ('staticfiles/index.html',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/index.html',
+   'DATA'),
+  ('staticfiles/logo192.png',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/logo192.png',
+   'DATA'),
+  ('staticfiles/logo512.png',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/logo512.png',
+   'DATA'),
+  ('staticfiles/manifest.json',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/manifest.json',
+   'DATA'),
+  ('staticfiles/robots.txt',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/robots.txt',
+   'DATA'),
+  ('staticfiles/static/css/main.608f2b0b.css',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/static/css/main.608f2b0b.css',
+   'DATA'),
+  ('staticfiles/static/css/main.608f2b0b.css.map',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/static/css/main.608f2b0b.css.map',
+   'DATA'),
+  ('staticfiles/static/js/453.8ab44547.chunk.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/static/js/453.8ab44547.chunk.js',
+   'DATA'),
+  ('staticfiles/static/js/453.8ab44547.chunk.js.map',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/static/js/453.8ab44547.chunk.js.map',
+   'DATA'),
+  ('staticfiles/static/js/main.3275dd15.js',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/static/js/main.3275dd15.js',
+   'DATA'),
+  ('staticfiles/static/js/main.3275dd15.js.LICENSE.txt',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/static/js/main.3275dd15.js.LICENSE.txt',
+   'DATA'),
+  ('staticfiles/static/js/main.3275dd15.js.map',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/staticfiles/static/js/main.3275dd15.js.map',
+   'DATA'),
+  ('base_library.zip',
+   '/Users/kavimongia-gasper/Documents/RRP '
+   'Project/audio_app/build/start_app/base_library.zip',
+   'DATA')],)

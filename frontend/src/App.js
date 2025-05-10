@@ -62,7 +62,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Song Mashup Generator</h1>
+        <h1>MUOrganizer</h1>
         <p>Folder structure should contain subfolders for each song, with vocal, instrumental, and full versions</p>
         
         <form onSubmit={handleSubmit}>
