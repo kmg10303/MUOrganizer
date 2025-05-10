@@ -32,7 +32,9 @@ def analyze_music_file(file_path):
     try:
         y, sr = librosa.load(file_path, sr=None, mono=True)
         tempo, _ = librosa.beat.beat_track(y=y, sr=sr)
-        key = KeyFinder(file_path).print_key()
+        kf = KeyFinder(file_path)   # runs analysis internally
+        key = max(kf.key_dict, key=kf.key_dict.get)
+        print(f"Key: {key}")
         return {'bpm': tempo, 'key': key}
     except Exception as e:
         logger.warning(f"Analysis failed for {file_path}: {e}")
